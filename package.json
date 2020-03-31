@@ -1,0 +1,18 @@
+{
+  "name": "gmail_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gmail.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^48.0.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
